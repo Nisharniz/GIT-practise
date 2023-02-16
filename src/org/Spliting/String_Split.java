@@ -14,6 +14,7 @@ public class String_Split {
 			System.out.println("not eligible to vote");
 
 		}
+		System.out.println("GIT");
 
 	}
 }
